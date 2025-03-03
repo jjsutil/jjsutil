@@ -1,7 +1,7 @@
 ![Banner](![github-header-image](https://github.com/user-attachments/assets/c5524925-dd4c-4f64-8afd-291df6b14b77))
 
 # 👋 Hello!  
-I'm a **Back-End Developer** with a background in **Astronomy**, passionate about **data analysis, process optimization, and machine learning**. I work with **Python, Golang, PHP, and AWS** to build scalable applications and solve complex problems.  
+I'm a **Back-End Developer** with a background in **Astronomy** (BSc.), passionate about **data analysis, process optimization, and machine learning**. I work with **Python, Golang, PHP, and AWS** to build scalable applications and solve complex problems.  
 
 ---
 
