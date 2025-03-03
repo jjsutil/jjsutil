@@ -1,5 +1,7 @@
-![github-header-image](https://github.com/user-attachments/assets/0c6ac16e-b4f4-4250-89e9-50392fbdd4b1)
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c6ac16e-b4f4-4250-89e9-50392fbdd4b1" alt="github-header-image">
+</p>
+
 Hola 👋! I'm a **Back-End Developer** with a background in **Astronomy** (BSc.), passionate about **data analysis, process optimization, and machine learning**. I work with **Python, Golang, PHP, and AWS** to build scalable applications and solve complex problems.  
 
 ---
