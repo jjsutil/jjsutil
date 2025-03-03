@@ -7,7 +7,6 @@ Hola 👋! I'm a **Back-End Developer** with a background in **Astronomy** (BSc.
 
 ---
 
-[!NOTE]
 ## 🔧 Back-End Development Skills  
 
 - **Languages:** Python, PHP (*Laravel*), Golang (*familiar with*)  
