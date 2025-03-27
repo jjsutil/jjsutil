@@ -16,7 +16,7 @@ Hola 👋! I'm a **Back-End Developer** with a background in **Astronomy** (BSc.
 - **Cloud & DevOps:** AWS (*Lambda, Step Functions, S3*), CI/CD, Forge, DigitalOcean, Laravel Cloud(*)  
 - **Security & Authentication:** Laravel Breeze, Jetstream  
 - **Software Architecture:** DDD, MVC, Microservices, Multi-tenancy  
-- **Testing & Debugging:** PHPUnit, Pytest, Xdebug  
+- **Testing & Debugging:** PHPUnit, Pytest, Xdebug, TDD, ...
 
 ---
 
