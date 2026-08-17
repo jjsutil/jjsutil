@@ -14,38 +14,42 @@
 
 **Software Engineer · trained in Astronomy & Physics Education**
 
+I like building apps, doing ML, and chasing science — still learning all three.
+
+Family & friends first — happily engaged. Music, always. I try to make time for the outdoors; it keeps the heart happy and the head light. Also: plants, and eating well.
+
 Most of my repos are private — the portfolio has the extended intro, and Calendly gets you a live walkthrough.
 
 </div>
 
 ---
 
-| | | |
-|---|---|---|
-| **big projects** | | |
-| pin | legal-doc intelligence — thousands of scanned pages, every answer cited to its page | in production |
-| talia | chainsaw alerts against illegal logging — solar IoT + ML classification | hardware in dev |
-| vi2bo | video → typeset PDF — lectures transcribed, LaTeX-compiled | in production |
-| **side** | | |
-| palomita | weekly memory for my repos — auto changelogs + README-drift PRs | private |
-| queltehue | sentinel for autonomous coding agents — risky forks escalate to a phone call | private |
-| juanOS | an operating system for a human life — the ≤3 things that matter today | private |
-| **devops / powertools** | | |
-| concon | repository measurement observatory | private |
-| QR-recover | Reed-Solomon repair of a damaged ID-card QR | private |
-| onthemerge | terminal daemon that makes your GitHub fleet audible | private |
-| bootflower | workflow bootstrapper that blooms in every repo | private |
-| **ML** | | |
-| pleamar | gravitational dynamics — formation & flow simulation | starting |
-| bioinformatics | microbiology collab with Universidad de Chile | publication 2026 |
-| speed tracking | vehicle speed on roadways — YOLO, Detectron | done |
-| road damage | detection with Mapillary imagery + fine-tuning | done |
-| **meme** | | |
-| 67 | a daily social app around the base-67 clock | ask me |
+| | | | |
+|---|---|---|---|
+| **big projects** | | | |
+| pin | prod · priv demo | ask a legal case file anything; answers cite the exact page | Python · FastAPI · PaddleOCR · React |
+| vi2bo | prod | turns videos into typeset PDFs | Python · Whisper · LaTeX |
+| talia | in dev | forest sensors that hear chainsaws and alert in minutes | Python · FastAPI · Postgres · MQTT |
+| **devops / powertools** | | | |
+| concon | alpha | repo health: complexity · duplication · coupling · hotspots · churn · DORA · mutation | Python · tree-sitter |
+| bootflower | in use | canonical store of agent skills, rules & CI templates — seeds and syncs them across repos | Claude Code · GH Actions |
+| QR-recover | done | repairs damaged QR codes via Reed-Solomon | Python |
+| onthemerge | in dev | plays your GitHub fleet's activity out loud | Python |
+| **side** | | | |
+| palomita | in dev | weekly auto changelogs & README-drift PRs | Python · GH Actions |
+| queltehue | in dev | escalates risky coding-agent actions to Telegram or a phone call | Python · Telegram |
+| juanOS | in dev | surfaces the ≤3 things that matter today | Python · SQLite |
+| **ML** | | | |
+| bioinformatics | paper incoming | microbiology genomics collab, U. de Chile | Python |
+| pleamar | in dev | gravitational dynamics & flow simulation | Python · JAX |
+| speed tracking | MVP done | vehicle speed from roadway video | YOLO · Detectron |
+| road damage | MVP done | road-damage detection from street imagery | PyTorch · Mapillary |
+| **meme** | | | |
+| 67 | 67 | a daily social app on the base-67 clock | React · Capacitor · Python |
 
-### Track record
+### Also found
 
-- **[pin](https://jjsutil.github.io/pin-landing/)** — founding software engineer, 2026 – now
-- **[HealthAtom](https://healthatom.com)** — full-stack SWE, healthtech used across LATAM, 2025 – 2026
-- **[Reimpact](https://reimpact.cl)** — engineer #2, scaled a B2B SaaS from 4 to 20+ enterprise clients
-- **[CNTV](https://cntvinfantil.cl/series/manos-al-experimento/)** — scientific advisor, children's science TV series, 13 episodes
+- quietly founding-engineering **[pin](https://jjsutil.github.io/pin-landing/)** — trying to make legal citations verifiable (2026 – now)
+- learning a lot shipping healthtech at **[HealthAtom](https://healthatom.com)** (2025 – 2026)
+- lucky to be engineer #2 at **[Reimpact](https://reimpact.cl)** while it grew from 4 to 20+ clients
+- once helped explain science to kids on TV for **[CNTV](https://cntvinfantil.cl/series/manos-al-experimento/)** — 13 episodes, still can't quite believe it
