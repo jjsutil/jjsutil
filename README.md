@@ -14,12 +14,7 @@
 
 **Software Engineer · trained in Astronomy & Physics Education**
 
-I like building apps, doing ML, and chasing science — still learning all three.
-
-Family & friends first — happily engaged. Music, always. I try to make time for the outdoors; it keeps the heart happy and the head light. Also: plants, and eating well.
-
-Most of my repos are private — the portfolio has the extended intro, and Calendly gets you a live walkthrough.
-
+Most of my repos are private. But I'd be happy if you contact me :-)
 </div>
 
 ---
@@ -28,24 +23,25 @@ Most of my repos are private — the portfolio has the extended intro, and Calen
 |---|---|---|---|
 | **big projects** | | | |
 | pin | prod · priv demo | ask a legal case file anything; answers cite the exact page | Python · FastAPI · PaddleOCR · React |
-| vi2bo | prod | turns videos into typeset PDFs | Python · Whisper · LaTeX |
 | talia | in dev | forest sensors that hear chainsaws and alert in minutes | Python · FastAPI · Postgres · MQTT |
-| **devops / powertools** | | | |
+| **ML** | | | |
+| vi2bo | prod | turns videos into typeset PDFs | Python · Whisper · LaTeX |
+| bioinformatics | paper incoming | microbiology genomics collab, U. de Chile | Python |
+| speed tracking | MVP done | vehicle speed from roadway video | YOLO · Detectron |
+| road damage | MVP done | road-damage detection from street imagery | PyTorch · Mapillary |
+| astroph | in dev | gravitational dynamics & flow simulation | Python · JAX |
+| **tools** | | | |
 | concon | alpha | repo health: complexity · duplication · coupling · hotspots · churn · DORA · mutation | Python · tree-sitter |
 | bootflower | in use | canonical store of agent skills, rules & CI templates — seeds and syncs them across repos | Claude Code · GH Actions |
 | QR-recover | done | repairs damaged QR codes via Reed-Solomon | Python |
-| onthemerge | in dev | plays your GitHub fleet's activity out loud | Python |
 | **side** | | | |
 | palomita | in dev | weekly auto changelogs & README-drift PRs | Python · GH Actions |
 | queltehue | in dev | escalates risky coding-agent actions to Telegram or a phone call | Python · Telegram |
-| juanOS | in dev | surfaces the ≤3 things that matter today | Python · SQLite |
-| **ML** | | | |
-| bioinformatics | paper incoming | microbiology genomics collab, U. de Chile | Python |
-| pleamar | in dev | gravitational dynamics & flow simulation | Python · JAX |
-| speed tracking | MVP done | vehicle speed from roadway video | YOLO · Detectron |
-| road damage | MVP done | road-damage detection from street imagery | PyTorch · Mapillary |
-| **meme** | | | |
+| os | in dev | surfaces the ≤3 things that matter today | Python · SQLite |
+| **for fun** | | | |
 | 67 | 67 | a daily social app on the base-67 clock | React · Capacitor · Python |
+| onthemerge | done | plays your GitHub fleet's activity out loud | Python |
+
 
 ### Also found
 
