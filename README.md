@@ -1,5 +1,3 @@
-<img width="1057" height="632" alt="image" src="https://github.com/user-attachments/assets/1a89877f-6fbd-4d2e-a37c-cb955dc11ea0" /><div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/juanfetch-light.svg">
   <img alt="juanfetch — Juan Sutil Palma · Software Engineer @ Pin · BSc Astronomy / BEd Physics (PUC Chile) · PHP, Python, TypeScript · juan@uc.cl" src="assets/juanfetch-dark.svg">
