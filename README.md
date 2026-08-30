@@ -1,8 +1,8 @@
-<div align="center">
+<img width="1057" height="632" alt="image" src="https://github.com/user-attachments/assets/1a89877f-6fbd-4d2e-a37c-cb955dc11ea0" /><div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/juanfetch-light.svg">
-  <img alt="juanfetch — Juan Sutil Palma · Founding Software Engineer @ pin · BSc Astronomy + BEd Physics (PUC Chile) · PHP, Python, TypeScript · juan@uc.cl" src="assets/juanfetch-dark.svg">
+  <img alt="juanfetch — Juan Sutil Palma · Software Engineer @ Pin · BSc Astronomy / BEd Physics (PUC Chile) · PHP, Python, TypeScript · juan@uc.cl" src="assets/juanfetch-dark.svg">
 </picture>
 
 <br>
@@ -12,7 +12,7 @@
 <a href="mailto:juan@uc.cl"><img alt="Email" src="https://img.shields.io/badge/email-juan%40uc.cl-C25A28?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://calendly.com/jjsutilp/meet-juan"><img alt="Calendly" src="https://img.shields.io/badge/book_30_min-calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"></a>
 
-**Software Engineer · trained in Astronomy & Physics Education**
+**Software Engineer · trained in Astrophysics**
 
 Most of my repos are private. But I'd be happy if you contact me :-)
 </div>
@@ -22,6 +22,7 @@ Most of my repos are private. But I'd be happy if you contact me :-)
 | | | | |
 |---|---|---|---|
 | **big projects** | | | |
+| gauge | prod | software factory | Typescript · Python · Astro.js · React · AWS · custom |
 | pin | prod · priv demo | ask a legal case file anything; answers cite the exact page | Python · FastAPI · PaddleOCR · React |
 | talia | in dev | forest sensors that hear chainsaws and alert in minutes | Python · FastAPI · Postgres · MQTT |
 | **ML** | | | |
@@ -45,7 +46,7 @@ Most of my repos are private. But I'd be happy if you contact me :-)
 
 ### Also found
 
-- quietly founding-engineering **[pin](https://jjsutil.github.io/pin-landing/)** — trying to make legal citations verifiable (2026 – now)
-- learning a lot shipping healthtech at **[HealthAtom](https://healthatom.com)** (2025 – 2026)
-- lucky to be engineer #2 at **[Reimpact](https://reimpact.cl)** while it grew from 4 to 20+ clients
-- once helped explain science to kids on TV for **[CNTV](https://cntvinfantil.cl/series/manos-al-experimento/)** — 13 episodes, still can't quite believe it
+- quietly engineering **[pin](https://jjsutil.github.io/pin-landing/)** — making legal citations verifiable (2026 – now)
+- learning a lot at **[HealthAtom](https://healthatom.com)** (2025 – 2026)
+- lucky to be a jr swe at **[Reimpact](https://reimpact.cl)** while it grew from 4 to 20+ clients
+- once helped explain science to kids on TV for **[CNTV](https://cntvinfantil.cl/series/manos-al-experimento/)** 
