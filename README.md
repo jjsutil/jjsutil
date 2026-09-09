@@ -20,7 +20,7 @@ Most of my repos are private. But I'd be happy if you contact me :-)
 | | | | |
 |---|---|---|---|
 | **big projects** | | | |
-| gauge | prod | software factory | Typescript · Python · Astro.js · React · AWS · custom |
+| gaugelabs | prod | software factory @ gauge.cl | Typescript · Python · Astro.js · React · AWS · custom |
 | pin | prod · priv demo | ask a legal case file anything; answers cite the exact page | Python · FastAPI · PaddleOCR · React |
 | talia | in dev | forest sensors that hear chainsaws and alert in minutes | Python · FastAPI · Postgres · MQTT |
 | **ML** | | | |
