@@ -29,22 +29,3 @@ Most of my repos are private. But I'd be happy if you contact me :-)
 | speed tracking | MVP done | vehicle speed from roadway video | YOLO · Detectron |
 | road damage | MVP done | road-damage detection from street imagery | PyTorch · Mapillary |
 | astroph | in dev | gravitational dynamics & flow simulation | Python · JAX |
-| **tools** | | | |
-| concon | alpha | repo health: complexity · duplication · coupling · hotspots · churn · DORA · mutation | Python · tree-sitter |
-| bootflower | in use | canonical store of agent skills, rules & CI templates — seeds and syncs them across repos | Claude Code · GH Actions |
-| QR-recover | done | repairs damaged QR codes via Reed-Solomon | Python |
-| **side** | | | |
-| palomita | in dev | weekly auto changelogs & README-drift PRs | Python · GH Actions |
-| queltehue | in dev | escalates risky coding-agent actions to Telegram or a phone call | Python · Telegram |
-| os | in dev | surfaces the ≤3 things that matter today | Python · SQLite |
-| **for fun** | | | |
-| 67 | 67 | a daily social app on the base-67 clock | React · Capacitor · Python |
-| onthemerge | done | plays your GitHub fleet's activity out loud | Python |
-
-
-### Also found
-
-- quietly engineering **[pin](https://jjsutil.github.io/pin-landing/)** — making legal citations verifiable (2026 – now)
-- learning a lot at **[HealthAtom](https://healthatom.com)** (2025 – 2026)
-- lucky to be a jr swe at **[Reimpact](https://reimpact.cl)** while it grew from 4 to 20+ clients
-- once helped explain science to kids on TV for **[CNTV](https://cntvinfantil.cl/series/manos-al-experimento/)** 
